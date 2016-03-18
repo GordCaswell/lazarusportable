@@ -1,6 +1,6 @@
 LazarusPortable.exe
 
-Data/
+/Data/**
 
 Desktop.ini
 Thumbs.db
